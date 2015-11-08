@@ -1,0 +1,19 @@
+.banner{
+
+	text-align: center;
+	margin-bottom: 45px;
+	padding-top: 15px;}
+.header{
+	margin-top: 10px;
+}
+body{
+	background: url(#{request.contextPath}/resources/img/back.jpg) no-repeat
+		center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+footer{
+	text-align: center;
+}
